@@ -10,3 +10,7 @@ wordpress-4.9.8.zip
 wordpress-5.0.zip
 
 wordpress-5.0.tar.gz
+
+wordpress-5.0.3-zh_CN.zip
+
+wordpress-5.0.3-zh_CN.tar.gz
